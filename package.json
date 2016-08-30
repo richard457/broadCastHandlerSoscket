@@ -1,0 +1,21 @@
+{
+  "name": "broadcasthandle",
+  "version": "1.0.0",
+  "description": "gcca purpose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+"devDependencies": {
+    "gulp": "^3.8.8",
+    "laravel-elixir": "*"
+  },
+  "dependencies": {
+    "express": "^4.12.3",
+    "redis": "^0.12.1",
+    "socket.io": "^1.3.5"
+  },
+  "author": "Muragijimana Richard <beastar457@gmail.com> (http://streamupbox.com)",
+  "license": "ISC"
+}
